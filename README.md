@@ -16,3 +16,9 @@ Here in this repository I will write down the commands and code to create a Read
 
 ## For ``` ```
 Use ``` ```
+
+## To reduce the width and height of an image in HTML, you can use the "width" and "height" attributes within the "img" tag. Here's an example:
+
+```html
+<img src="example.jpg" width="200" height="300" alt="Example Image">
+```
