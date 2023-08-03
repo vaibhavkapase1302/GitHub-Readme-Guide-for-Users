@@ -27,3 +27,8 @@ To add a link
 ```html
 <a href="URL">Link Text</a
 ```
+
+```
+[Link Text](URL)
+````
+
