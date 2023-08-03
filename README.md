@@ -32,3 +32,40 @@ To add a link
 [Link Text](URL)
 ````
 
+##  Bullet Points
+Use either asterisks (*) or hyphens (-) followed by a space before each list item.
+
+```
+* Item 1
+* Item 2
+* Item 3
+```
+
+Or
+
+```
+- Item 1
+- Item 2
+- Item 3
+```
+
+You can also create a nested bullet list by adding additional spaces before the asterisk or hyphen:
+
+```
+* Item 1
+  * Subitem 1
+  * Subitem 2
+* Item 2
+* Item 3
+```
+
+or
+
+```
+  - Subitem 1
+  - Subitem 2
+- Item 2
+- Item 3
+```
+
+
