@@ -25,7 +25,7 @@ To reduce the width and height of an image in HTML, you can use the "width" and 
 
 To add a link
 ```html
-<a href="URL">Link Text</a
+<a href="URL">Link Text</a>
 ```
 
 ```
